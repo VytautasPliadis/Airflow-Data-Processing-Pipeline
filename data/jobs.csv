@@ -1,0 +1,7 @@
+timestamp,title,company,link,job_type,region,salary
+2024-05-23T10:00:00Z,Data Engineer,Tech Corp,http://techcorp.com/jobs/1,Full-Time,Remote,120000
+2024-05-23T11:00:00Z,Senior Data Scientist,Data Inc,http://datainc.com/jobs/2,Part-Time,USA,90000
+2024-05-23T12:00:00Z,Data Engineer,AI Solutions,http://aisolutions.com/jobs/3,Contract,Europe,80000
+2024-05-23T13:00:00Z,Data Analyst,Analytics Ltd,http://analyticsltd.com/jobs/4,Full-Time,Asia,70000
+2024-05-23T14:00:00Z,Data Engineer,Big Data Co,http://bigdataco.com/jobs/5,Full-Time,Remote,Negotiable
+2024-02-23T12:00:00Z,Data Engineer,Teltonika,http://teltonika.com/jobs/3,Contract,Europe,20000

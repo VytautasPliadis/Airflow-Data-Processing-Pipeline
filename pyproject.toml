@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "vypliad-de3v2-1-5"
+version = "0.1.0"
+description = ""
+authors = ["VytautasPliadis <vytautas.pliadis@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vypliad_de3v2"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.31.0"
+yarl = "^1.9.4"
+pandas = "^2.2.2"
+apache-airflow = "^2.0"
+pytest = "^8.2.0"
+feedparser = "^6.0.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
